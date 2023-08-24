@@ -21,16 +21,16 @@ export default function (){
                 <Link to="/Order"><button className="text-white md:text-xl  font-[Lato] lg:w-[187px] lg:h-[50px] sm:w-[187px] sm:h-[50px] w-[150px] h-[40px]  py-0 px-6 md:ml-0  rounded  bg-gradient-to-r from-[#EA2C2D] to-[#EF8887]">Order Now </button></Link>
                 <a className="lg:text-xl sm:text-xl lg:mb-4 md:mb-4 mb-2 font-SemiBold text-[#EA2C2D] hover:text-[#EF8887] cursor-pointer underline  ">Learn more</a>
            </div>
-           <div className="lg:mt-12 sm:mt-12 mt-8 lg:gap-14 sm:gap-14 gap-6 text-[#1E1E1E] opacity-25 flex  flex-row items-center ">
+           <div className="lg:mt-12 sm:mt-12 mt-8 lg:gap-14 sm:gap-14 gap-6 text-[#CFCDCB]  flex  flex-row items-center ">
               
                 <h4 className=" lg:text-[25px] sm:text-[25px] text-[20px] underline">Call us:</h4>
                
                <div className="flex flex-row gap-2 mt-2 items-center ">
-                   <span className="text-[#1E1E1E] opacity-50 lg:text-2xl sm:text-2xl text-xl "> <ion-icon name="call" ></ion-icon></span>
+                   <span className="text-[#CFCDCB]  lg:text-2xl sm:text-2xl text-xl "> <ion-icon name="call" ></ion-icon></span>
                    <h4 className="lg:text-xl lg:font-SemiBold sm:text-xl sm:font-SemiBold mb-2">0758240063</h4>
                </div>
                <div className="flex flex-row gap-2 mt-2 items-center ">
-                    <span className="text-[#1E1E1E] opacity-50  lg:text-2xl sm:text-2xl text-xl"> <ion-icon name="call" ></ion-icon></span>
+                    <span className="text-[#CFCDCB]   lg:text-2xl sm:text-2xl text-xl"> <ion-icon name="call" ></ion-icon></span>
                     <h4 className="lg:text-xl lg:font-SemiBold sm:text-xl sm:font-SemiBold mb-2">0587962430</h4>
                </div>
                

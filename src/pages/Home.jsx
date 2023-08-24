@@ -8,10 +8,6 @@ import Whyus from "../Components/Whyus";
 import Costumer from "../Components/Costumer";
 import App from "../Components/App";
 
-
-
-
-
 export default function () {
 return(
           <>

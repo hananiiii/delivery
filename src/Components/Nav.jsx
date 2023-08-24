@@ -12,7 +12,7 @@ export default function (){
     let [open,setOpen]=useState(false);
     return( 
        
-   <div className="   w-full fixed   top-0 left-0 font-[Lato]">
+   <div className=" w-full fixed   top-0 left-0 font-[Lato]">
     <div className=" md:flex bg-white   items-center justify-between  py-4 md:px-10 px-7">
      <Link to="/Home"><div className="font-bold text-[#EA2C2D] text-2xl cursor-pointer flex items-center font-[Lato]">
         <span className="text-2xl text-[#1E1E1E]   mr-1 pt-2">

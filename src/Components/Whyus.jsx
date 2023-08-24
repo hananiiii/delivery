@@ -8,7 +8,7 @@ export default function (){
         <div className="bg-gray-100 lg:h-screen h-full w-full font-[lato] pt-6">
             <div className="lg:mt-2 sm:-mt-[100px] -mt-[20px] sm:justify-center items-center">
                 <h1 className="lg:text-[35px] lg:font-bold sm:text-[35px] sm:font-bold text-[30px] font-bold text-center text-[#1E1E1E] "> Why Us</h1>
-                    <p className=" lg:text-[19px] sm:text-[19px] text-[15px] font-light text-[#1E1E1E] opacity-25 text-center">o 
+                    <p className=" lg:text-[19px] sm:text-[19px] text-[15px] font-light text-[#CFCDCB] 5 text-center">o 
                     offering a wide range of services to cater to all your needs <br/>
                     under one virtual roof
                      </p>
@@ -24,7 +24,7 @@ export default function (){
                             <h3 className="font-bold text-[22px] text-[#1E1E1E]">Home delivery</h3>
                            
                           </div>
-                          <p className="text-[17px] font-medium text-[#1E1E1E] opacity-25 mt-4">Effortlessly receive your desired products <br/>
+                          <p className="text-[17px] font-medium text-[#CFCDCB]  mt-4">Effortlessly receive your desired products <br/>
                              at your doorstep with our reliable home<br/>
                             delivery service.</p>
                       </div>
@@ -36,7 +36,7 @@ export default function (){
                             <h3 className="font-bold text-[22px] text-[#1E1E1E]">Easy to order</h3>
                           
                           </div>
-                          <p className="text-[17px] font-medium text-[#1E1E1E] opacity-25 mt-4">Ordering is a breeze with our user-friendly<br/>
+                          <p className="text-[17px] font-medium text-[#CFCDCB]  mt-4">Ordering is a breeze with our user-friendly<br/>
                              interface, making it quick and easy to get <br/>
                             exactly what you need</p>
                       </div>
@@ -47,7 +47,7 @@ export default function (){
                           <span className="text-[#E92526] text-3xl"><ion-icon name="time"></ion-icon></span>
                             <h3 className="font-bold text-[22px] text-[#1E1E1E]">24/4 Services</h3>
                           </div>
-                          <p className="text-[17px] font-medium text-[#1E1E1E] opacity-25 mt-4">Experience the convenience of our 24/7 <br/>
+                          <p className="text-[17px] font-medium text-[#CFCDCB] mt-4">Experience the convenience of our 24/7 <br/>
                                fast service, ensuring prompt delivery<br/>
                                 whenever you need it, day or night.</p>
                       </div>
@@ -58,7 +58,7 @@ export default function (){
                             <span className="text-[#E92526] text-3xl"> <ion-icon name="heart" className="bg-[#E92526]"></ion-icon></span>
                             <h3 className="font-bold text-[22px] text-[#1E1E1E]">Best Quality</h3>
                           </div>
-                          <p className="text-[17px] font-medium text-[#1E1E1E] opacity-25 mt-4">Delivering excellence is our top priority,<br/>
+                          <p className="text-[17px] font-medium text-[#CFCDCB]  mt-4">Delivering excellence is our top priority,<br/>
                                  providing you with the best quality service<br/>
                                 that exceeds your expectations every time.</p>
                       </div>

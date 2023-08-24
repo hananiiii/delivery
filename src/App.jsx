@@ -7,8 +7,6 @@ import Send from "./pages/Send.jsx";
 import Order from "./pages/Order.jsx";
 import Signup from "./pages/Signup.jsx";
 
-
-
 function App() {
   
   return (

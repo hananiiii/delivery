@@ -10,7 +10,7 @@ export default function (){
         <div className="bg-gray-100 h-screen  w-full font-[lato] pt-2">
             <div className="lg:pt-0 sm:pt-[100px] pt-[100px] sm:justify-center items-center">
                 <h1 className="lg:text-[35px] lg:font-bold sm:text-[35px] sm:font-bold text-[30px] font-black text-center text-[#1E1E1E] ">Our Application</h1>
-                    <p className=" lg:text-[19px] sm:text-[19px] text-[15px] font-light text-[#1E1E1E] opacity-25 text-center">
+                    <p className=" lg:text-[19px] sm:text-[19px] text-[15px] font-light text-[#CFCDCB]  text-center">
                     Get closer to us and unlock a world of possibilities <br/>
                     by installing our application
                      </p>
@@ -21,7 +21,7 @@ export default function (){
                </div>
                <div className="lg:-mt-[460px] sm:-mt-[360px] mt-7 lg:ml-[570px] sm:ml-[570px] flex flex-col  gap-4 ">
                   <h3 className="font-bold text-[#1E1E1E] lg:text-[30px] sm:text-[20px] text-[20px] lg:-ml-48 sm:-ml-[300px] -ml-[100px] sm:mt-[100px] text-center">Install our application</h3>
-                  <p className="lg:text-[20px] sm:text-[15px] text-[#1E1E1E] font-medium opacity-25 text-center lg:-ml-48 sm:-ml-[300px] hidden lg:block sm:block ">"Get closer to us and unlock a world of possibilities by<br/> installing our application. Discover more about our<br/> services, stay updated with the latest offerings, and<br/> experience the convenience at your fingertips."</p>
+                  <p className="lg:text-[20px] sm:text-[15px] text-[#CFCDCB] font-medium  text-center lg:-ml-48 sm:-ml-[300px] hidden lg:block sm:block ">"Get closer to us and unlock a world of possibilities by<br/> installing our application. Discover more about our<br/> services, stay updated with the latest offerings, and<br/> experience the convenience at your fingertips."</p>
                   <div className="flex flex-row mt-6 lg:ml-10 sm:-ml-[280px] -ml-14 lg:gap-16 sm:gap-10 gap-8 cursor-pointer">
                     <div className="lg:w-[206px] sm:w-[150px] w-[150px] sm:h-[45px] lg:h-[50px] h-[45px] bg-[#1E1E1E] rounded-lg flex lg:flex-row sm:flex-col">
                     <span className="lg:text-2xl sm:text-xl text-xl text-white pl-4 pt-[10px]"><ion-icon name="logo-google-playstore"></ion-icon></span>
